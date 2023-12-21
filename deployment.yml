@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: madmaxdocker/tetrisv1:latest
+        image: madmaxdocker/tetrisv2:latest
         ports:
         - containerPort: 3000   # Use port 3000
 
